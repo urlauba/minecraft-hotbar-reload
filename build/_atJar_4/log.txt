@@ -1,7 +1,0 @@
-Java Launcher: /Users/urlauba/.gradle/jdks/eclipse_adoptium-17-aarch64-os_x/jdk-17.0.8.1+1/Contents/Home/bin/java
-Arguments: '--inJar, /Users/urlauba/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.2-48.0.13/forge-1.20.2-48.0.13-injected.jar, --outJar, /Users/urlauba/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.2-48.0.13_mapped_official_1.20.2/forge-1.20.2-48.0.13_mapped_official_1.20.2.jar, --logFile, accesstransform.log, --atFile, /Users/urlauba/minecraft-hotbar-reload/build/_atJar_4/parent_at.cfg'
-Classpath:
- - /Users/urlauba/.gradle/caches/forge_gradle/maven_downloader/net/minecraftforge/accesstransformers/8.0.7/accesstransformers-8.0.7-fatjar.jar
-Working directory: /Users/urlauba/minecraft-hotbar-reload/build/_atJar_4
-Main class: net.minecraftforge.accesstransformer.TransformerProcessor
-====================================
