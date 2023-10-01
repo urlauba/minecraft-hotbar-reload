@@ -14,7 +14,7 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 @Mod.EventBusSubscriber(modid = "hotbarreload", bus = Mod.EventBusSubscriber.Bus.MOD)
-public class HotbarReloadConfig
+public class Config
 {
     private static final ForgeConfigSpec.Builder BUILDER = new ForgeConfigSpec.Builder();
 
