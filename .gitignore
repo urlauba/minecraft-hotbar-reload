@@ -32,3 +32,9 @@ build/**
 
 # vscode
 .vscode
+
+# mod
+bin/**
+build/**
+run/**
+run-data/**
